@@ -1,2 +1,2 @@
-# pull-request-fetcher
-A robust API integration to fetch pull request data for any GitHub repository. 
+Consume Github API (186)
+For raw project instructions see: http://syllabus.africacode.net/projects/github-api-consume/part1/

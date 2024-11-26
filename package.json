@@ -1,0 +1,19 @@
+{
+  "name": "ezra-ramatong-186-consume-github-api-javascript",
+  "version": "1.0.0",
+  "description": "Consume Github API (186) For raw project instructions see: http://syllabus.africacode.net/projects/github-api-consume/part1/",
+  "main": "src/consume_github_api.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezra Ramatong",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "dotenv": "^16.4.5"
+  }
+}
